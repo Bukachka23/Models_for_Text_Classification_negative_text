@@ -42,7 +42,7 @@ pip install pandas matplotlib numpy tensorflow scikit-learn
 
 9. Displaying a summary of the model architecture.
 
-10 Repeat these steps for each type of model (CNN, LSTM, GRU) by uncommenting the relevant code sections and commenting out the others.
+10. Repeat these steps for each type of model (CNN, LSTM, GRU) by uncommenting the relevant code sections and commenting out the others.
 
 ## Results
 
